@@ -38,4 +38,5 @@ else{
 //0
 //""
 //undefined
-//null --- these are falsy values 
+//null 
+//NaN --- these are falsy values 
